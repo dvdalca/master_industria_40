@@ -1,2 +1,3 @@
-# master_industria_40
-Repositori for testing 
+# Master Industria 4.0
+
+Visit X por for more info
