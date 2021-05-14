@@ -1,7 +1,10 @@
 # Users
 
-- david
-- jesús
+- David
+- Jesús
+- Beatriz
+- Domingo
+- Joan
 
 -----
 
